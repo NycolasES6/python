@@ -1,0 +1,4 @@
+# + Adicao
+# - Subtracao
+# / Divisao
+# *  Multiplicacao
