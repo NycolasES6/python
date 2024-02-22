@@ -23,3 +23,10 @@ for x in range(6):
     print(x)
 else:
     print("Chegamos ao fim.")
+
+print()
+
+# Range inverso
+for x in range(10, 0, -1) :
+    print(x)
+
