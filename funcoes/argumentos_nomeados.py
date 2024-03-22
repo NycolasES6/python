@@ -1,7 +1,7 @@
-def imprimir_nome(nome_cliente):
-    print(nome_cliente)
+def imprimir_nome(nome, sobrenome, idade):
+    print("nome: ", nome)
+    print("sobrenome: ", sobrenome)
+    print("idade: ", idade)
 
 
-nome = input("Qual o seu nome ?")
-
-imprimir_nome(nome)
+imprimir_nome(nome = "Nycolas", idade = 45, sobrenome="Júnior")
